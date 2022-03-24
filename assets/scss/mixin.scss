@@ -1,0 +1,11 @@
+@mixin border {
+    border-bottom:1px solid #707070;
+
+}
+@mixin heading {
+    h3{
+        padding:3px 0px 32px 0px;
+        font-size: 35px; 
+
+    }
+}
